@@ -6,7 +6,7 @@ Selamat datang di proyek Sistem Manajemen Kelas Virtual menggunakan Kecerdasan B
 
 Berikut adalah susunan direktori dari proyek ini:
 
-virtual-class-management-system/
+# virtual-class-management-system/
 ├── backend/
 │   ├── config/
 │   │   ├── db.js
